@@ -5,8 +5,7 @@ export const siteConfig = {
   description: "شاركنا فرحتنا وصوّت لعوض أو S، والنتيجة بتتحدث قدامك على طول.",
   locale: "ar_EG",
 
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000",
-
+  url: "https://wedding-vote-awad-s.vercel.app",
   indexable: false,
 
   image: {
